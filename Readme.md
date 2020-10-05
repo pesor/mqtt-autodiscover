@@ -52,11 +52,11 @@ Mapping of the JSON message, is actually very simple, just a lot of writing.
 
 I have used an example from my Fronius Inverter, but no matter what sensor you want to map, procedure are the same.
 
-![](https://github.com/pesor/mqtt-autodiscover/blob/main/Images/Mapping-1.JPG)
+![](https://github.com/pesor/mqtt-autodiscover/blob/main/images/Mapping-1.JPG)
 
 This is the end of the mapping
 
-![](https://github.com/pesor/mqtt-autodiscover/blob/main/Images/Mapping-2.JPG)
+![](https://github.com/pesor/mqtt-autodiscover/blob/main/images/Mapping-2.JPG)
 
 Be careful when writing in the Python program, use preferably a Python EDI, as Python is build with syntaxes around "whitespaces", which is very difficult to control in a simple text editor.
 
